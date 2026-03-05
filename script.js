@@ -1,5 +1,6 @@
 // Git Workflow Simulation Script
-
+JavaScript
+console.log("Aplikasi dimulai...");
 function showMessage() {
     alert("Praktikum Git Workflow berjalan.");
 }
