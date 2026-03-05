@@ -7,5 +7,6 @@ function showMessage() {
 function sambutan() {
     alert("Selamat datang di project kami!");
 }
-
+const appVersion = "1.0.0";
+console.log("Versi Aplikasi: " + appVersion);
 console.log("Git Workflow Simulation loaded.");
