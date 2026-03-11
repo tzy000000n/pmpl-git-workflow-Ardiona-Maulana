@@ -1,30 +1,13 @@
-<?php
-// Git Workflow Simulation
-// File ini digunakan untuk simulasi perubahan dalam praktikum Git.
-
-$title = "Git Workflow Simulation";
-?>
-
 <!DOCTYPE html>
-<html>
+<html lang="id">
+
 <head>
-    <title><?php echo $title; ?></title>
-    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <title>Platform Pembelajaran Literasi Digital</title>
 </head>
+
 <body>
 
-    <h1><?php echo $title; ?></h1>
-
-    <h2>Sistem Informasi PMPL</h2>
-
-    <p>Distribusi Makan Bergizi Gratis</p>
-
-    <button onclick="showMessage()">Klik Saya</button>
-
-    <script src="script.js"></script>
-
-    <footer>
-        <p>&copy; 2026 Kelompok PMPL. All rights reserved.</p>
-    </footer>
 </body>
+
 </html>
