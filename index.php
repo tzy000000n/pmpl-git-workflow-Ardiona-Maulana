@@ -7,11 +7,18 @@
 </head>
 
 <body>
-<h1>Platform Pembelajaran Literasi Digital</h1>
-<p>
-Website ini menyediakan materi literasi digital yang dapat diakses secara publik
-serta kelas pembelajaran privat bagi siswa dan guru.
-</p>
+
+    <h1>Platform Pembelajaran Literasi Digital</h1>
+    <p>
+        Website ini menyediakan materi literasi digital yang dapat diakses secara publik
+        serta kelas pembelajaran privat bagi siswa dan guru.
+    </p>
+
+    <footer>
+        <hr>
+        <p>&copy; 2026 Platform Pembelajaran Literasi Digital. All rights reserved.</p>
+    </footer>
+
 </body>
 
 </html>
